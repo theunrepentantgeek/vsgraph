@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Niche CodeAnalysis" Description="This ruleset contains all rules used by Niche Software projects." ToolsVersion="10.0">
+  <IncludeAll Action="Warning" />
+  <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
+    <Rule Id="CA1006" Action="None" />
+    <Rule Id="CA1020" Action="None" />
+    <Rule Id="CA1303" Action="None" />
+  </Rules>
+</RuleSet>
